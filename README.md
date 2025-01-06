@@ -5,6 +5,9 @@ Command-line program that emulates an interface in which medical staff and patie
 - User friendly interface<br>
 - Sign-in functionality<br>
 - File I/O <br>
+- Patient profile viewing and editing<br>
+- Report Generation<br>
+- Binary Search for patient lookup<br>
 
 ## Usage Example 1
 ---Patient Management Subsystem---<br>
