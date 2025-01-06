@@ -17,6 +17,7 @@ Enter Password: healthyguy1<br>
 3- Log Out of Patient Profile<br>
 Enter choice: <br>
 1<br>
+
 ---Profile Information---<br>
 Name: John Doe<br>
 ID: 156<br>
@@ -34,6 +35,7 @@ Enter Password: littlemonsterhealer<br>
 3- Generate a Patient Report<br>
 4- Log Out of Staff Profile<br>
 Enter choice: 1<br>
+
 ---Profile Information---<br>
 Name: Marnie Joy<br>
 ID: 494<br>
