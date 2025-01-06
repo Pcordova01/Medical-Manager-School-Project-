@@ -7,35 +7,35 @@ Command-line program that emulates an interface in which medical staff and patie
 - File I/O <br>
 
 ## Usage Example 1
----Patient Management Subsystem---
-Enter Username: jdoe
-Enter Password: healthyguy1
+---Patient Management Subsystem---<br>
+Enter Username: jdoe<br>
+Enter Password: healthyguy1<br>
 
---- Patient Menu ---
-1- View Patient Profile
-2- Edit Patient Information
-3- Log Out of Patient Profile
-Enter choice: 
-1
----Profile Information---
-Name: John Doe
-ID: 156
-Email: j.doe@gmail.com
-Treatment Notes: New patient 
+--- Patient Menu ---<br>
+1- View Patient Profile<br>
+2- Edit Patient Information<br>
+3- Log Out of Patient Profile<br>
+Enter choice: <br>
+1<br>
+---Profile Information---<br>
+Name: John Doe<br>
+ID: 156<br>
+Email: j.doe@gmail.com<br>
+Treatment Notes: New patient<br> 
 
 ## Usage Example 2
----Patient Management Subsystem---
-Enter Username: mjoy
-Enter Password: littlemonsterhealer
+---Patient Management Subsystem---<br>
+Enter Username: mjoy<br>
+Enter Password: littlemonsterhealer<br>
 
---- Staff Menu ---
-1- View Staff Profile
-2- Search Patients
-3- Generate a Patient Report
-4- Log Out of Staff Profile
-Enter choice: 1
----Profile Information---
-Name: Marnie Joy
-ID: 494
-Email: mjoy@medical.com
-Department: Pediatrics
+--- Staff Menu ---<br>
+1- View Staff Profile<br>
+2- Search Patients<br>
+3- Generate a Patient Report<br>
+4- Log Out of Staff Profile<br>
+Enter choice: 1<br>
+---Profile Information---<br>
+Name: Marnie Joy<br>
+ID: 494<br>
+Email: mjoy@medical.com<br>
+Department: Pediatrics<br>
